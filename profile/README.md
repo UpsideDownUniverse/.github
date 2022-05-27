@@ -9,3 +9,5 @@
 
 
 ### [Our Code of Conduct](../CODE_OF_CONDUCT.md)
+### [Our Contribution Guidlines](../CONTRIBUTING.md)
+### [Quick Support](../SUPPORT.md)
