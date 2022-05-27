@@ -8,5 +8,4 @@
 🍿 Fun facts - We welcome aliens to our community too 👀  
 
 
-## Code of Conduct:  
-[Code of Conduct](../CODE_OF_CONDUCT.md)
+### [Our Code of Conduct](../CODE_OF_CONDUCT.md)
