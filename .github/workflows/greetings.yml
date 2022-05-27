@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Welcome new wizard! Thank you for pointing out your view on the recipe!' 
+        pr-message: 'Oooh, Looks like you want to change something in the recipe, \n a senior wizard will review your suggestion and get back to you!'
