@@ -9,4 +9,4 @@
 
 
 ## Code of Conduct:  
-[Code of Conduct](./CODE_OF_CONDUCT.md)
+[Code of Conduct](../CODE_OF_CONDUCT.md)
