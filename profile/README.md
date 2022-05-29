@@ -7,7 +7,8 @@
 👩‍💻 Useful resources - 🚧 Docs are in the making 🚧  
 🍿 Fun facts - We welcome aliens to our community too 👀  
 
+- - -
 
-### [Our Code of Conduct](../CODE_OF_CONDUCT.md)
-### [Our Contribution Guidlines](../CONTRIBUTING.md)
-### [Quick Support](../SUPPORT.md)
+### [Our Code of Conduct](https://github.com/UpsideDownUniverse/.github/blob/06101c782b55d10ee6f401967fb4971387a00865/CODE_OF_CONDUCT.md)
+### [Our Contribution Guidlines](https://github.com/UpsideDownUniverse/.github/blob/06101c782b55d10ee6f401967fb4971387a00865/CONTRIBUTING.md)
+### [Quick Support](https://github.com/UpsideDownUniverse/.github/blob/06101c782b55d10ee6f401967fb4971387a00865/SUPPORT.md)
